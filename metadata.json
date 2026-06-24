@@ -1,0 +1,6 @@
+{
+  "name": "Luxe Retail",
+  "description": "Redefine Your Style. Curated premium clothing and accessories for the modern minimalist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
